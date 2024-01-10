@@ -1,0 +1,40 @@
+﻿18:13 39.09 DeepJsGrid (Web server): Hot reload session started
+18:14 26.50 DeepJsGrid (Web server): Sending updates to running application
+18:14 26.62 DeepJsGrid (Web server): Updates applied successfully
+18:14 26.62 DeepJsGrid: Refreshing web browser
+18:14 26.62 Changes were successfully applied.
+18:14 32.95 DeepJsGrid (Web server): Hot reload session complete
+18:14 34.57 DeepJsGrid (Web server): Hot reload session started
+18:14 44.57 DeepJsGrid (Web server): Hot reload session complete
+18:15 57.21 DeepJsGrid (Web server): Hot reload session started
+18:17 36.69 No changes were found.
+18:17 45.86 DeepJsGrid (Web server): Hot reload session complete
+18:17 47.25 DeepJsGrid (Web server): Hot reload session started
+18:19 18.66 DeepJsGrid (Web server): Sending updates to running application
+18:19 18.67 DeepJsGrid (Web server): Updates applied successfully
+18:19 18.67 Changes were successfully applied.
+18:19 19.74 DeepJsGrid: Refreshing web browser
+18:20 55.35 DeepJsGrid (Web server): Sending updates to running application
+18:20 55.35 Changes were successfully applied.
+18:20 55.52 DeepJsGrid (Web server): Updates applied successfully
+18:20 55.52 DeepJsGrid: Refreshing web browser
+18:21 11.76 DeepJsGrid (Web server): Sending updates to running application
+18:21 11.77 Changes were successfully applied.
+18:21 11.88 DeepJsGrid (Web server): Updates applied successfully
+18:21 11.88 DeepJsGrid: Refreshing web browser
+18:22 04.38 DeepJsGrid (Web server): Sending updates to running application
+18:22 04.38 Changes were successfully applied.
+18:22 04.39 DeepJsGrid (Web server): Updates applied successfully
+18:22 04.39 DeepJsGrid: Refreshing web browser
+18:22 20.72 DeepJsGrid (Web server): Hot reload session complete
+18:22 22.20 DeepJsGrid (Web server): Hot reload session started
+18:24 00.90 DeepJsGrid (Web server): Sending updates to running application
+18:24 00.90 Changes were successfully applied.
+18:24 01.05 DeepJsGrid (Web server): Updates applied successfully
+18:24 01.05 DeepJsGrid: Refreshing web browser
+18:24 30.76 DeepJsGrid (Web server): Sending updates to running application
+18:24 30.76 Changes were successfully applied.
+18:24 30.93 DeepJsGrid (Web server): Updates applied successfully
+18:24 30.93 DeepJsGrid: Refreshing web browser
+18:25 53.75 [Error] C:\Users\xtpl\source\repos\DeepJsGrid\DeepJsGrid\Controllers\StudentController.cs (line 52): error ENC0049: Ceasing to capture variable 'id' requires restarting the application.
+18:25 53.75 Changes could not be applied. Restarting the application is required.
